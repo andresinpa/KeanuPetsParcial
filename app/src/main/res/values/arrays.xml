@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Estas son las opciones que se muestran en el menú desplegable de sexo. -->
+    <string-array name="array_gender_options">
+        <item>@string/gender_unknown</item>
+        <item>@string/gender_male</item>
+        <item>@string/gender_female</item>
+    </string-array>
+
+    <!-- Estas son las opciones que se muestran en el menú desplegable de tipo. -->
+    <string-array name="array_type_options">
+        <item>@string/type_unknown</item>
+        <item>@string/type_perro</item>
+        <item>@string/type_gato</item>
+        <item>@string/type_ave</item>
+        <item>@string/type_roedor</item>
+    </string-array>
+
+</resources>

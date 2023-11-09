@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Keanu Pets - PetShop 🐶</string>
+
+    <!-- Catalogo Activity -->
+    <string name="action_insert_dummy_data">Insertar mascota ficticia 🐩</string>
+    <string name="action_delete_all_entries">Eliminar todas las mascotas 🐈</string>
+    <string name="unknown_breed">Raza desconocida</string>
+    <string name="empty_view_title_text">Está un poco solo aquí 🐹</string>
+    <string name="empty_view_subtitle_text">Comience agregando una mascota</string>
+
+
+    <!-- Editor Activity-->
+    <string name="editor_activity_title_new_pet">Agregar una Mascota 🦜</string>
+    <string name="editor_activity_title_edit_pet">Editar una Mascota 🙀</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="category_overview">Descripción 🐾</string>
+    <string name="category_gender">Sexo 🐾</string>
+    <string name="category_measurement">Medida 🐾</string>
+    <string name="category_type">Tipo 🐾</string>
+    <string name="hint_pet_name">Nombre</string>
+    <string name="hint_pet_breed">Raza</string>
+    <string name="hint_pet_weight">Peso</string>
+    <string name="unit_pet_weight">kg</string>
+    <string name="gender_unknown">N/A</string>
+    <string name="type_unknown">N/A</string>
+    <string name="gender_male">Macho</string>
+    <string name="gender_female">Hembra</string>
+    <string name="type_perro">Perro 🐩</string>
+    <string name="type_gato">Gato 🐈</string>
+    <string name="type_ave">Ave 🦆</string>
+    <string name="type_roedor">Roedor 🐁</string>
+    <string name="delete_dialog_msg">¿Eliminar esta mascota? 🐕‍🦺</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+
+
+</resources>
