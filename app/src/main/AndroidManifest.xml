@@ -6,20 +6,23 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@drawable/ic_add_pet"
-        android:label="@string/app_name"
+        android:icon="@drawable/splash"
+        android:label="Keanu Pets 🐾"
         android:roundIcon="@drawable/ic_add_pet"
         android:supportsRtl="true"
         android:theme="@style/Theme.KeanuPetsParcial"
         tools:targetApi="31">
         <activity
             android:name=".CatalogoActivity"
-            android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar"
-            android:exported="true">
+            android:label="Keanu Pets - PetShop 🐶"
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
